@@ -1,0 +1,1 @@
+Sku, Title, Content, Image URL, Product categories, Status, Stock, Main Category, Subcategory, Sub-sub-category, sub-sub-sub-category
